@@ -1,2 +1,4 @@
 .venv/
 venv/ 
+python_practice.py 
+data/raw    
